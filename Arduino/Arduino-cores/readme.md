@@ -5,14 +5,14 @@ Here are my arduino cores which i have collected.
 
 Barebone ATmega microcontrollers
 ================================
-atmega-master.zip
-  * **ATmega8/168**
-  * **ATmega328p**
-  * **ATmega168p/328**
+atmega-master.zip from carlosefr https://github.com/carlosefr/atmega
+* **ATmega8/168**
+* **ATmega328p**
+* **ATmega168p/328**
   
 ATtiny microcontrollers
 ==========================
-ATtinyCore-master.zip
+ATtinyCore-master.zip from SpenceKonde https://github.com/SpenceKonde/ATTinyCore
 * **ATtiny2313, 4313**
 * **ATtiny24, 44, 84**
 * **ATtiny25, 45, 85**
