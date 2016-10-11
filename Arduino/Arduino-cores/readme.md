@@ -3,7 +3,7 @@ Arduino cores
 
 Here are my arduino cores which i have collected. 
 
-Barebone ATmega microcontrollers
+ATmega microcontrollers
 ================================
 atmega-master.zip from carlosefr https://github.com/carlosefr/atmega
 
