@@ -9,9 +9,9 @@ atmega-master.zip from carlosefr https://github.com/carlosefr/atmega
 
 Board manager URL: https://raw.githubusercontent.com/carlosefr/atmega/master/package_carlosefr_atmega_index.json
 
-* **ATmega8/168**
-* **ATmega328p**
-* **ATmega168p/328**
+* **ATmega8**
+* **ATmega168/168p**
+* **ATmega328/328p**
 
 ATtiny microcontrollers
 ==========================
