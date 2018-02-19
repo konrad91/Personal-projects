@@ -28,3 +28,9 @@ Board manager URL: http://drazzy.com/package_drazzy.com_index.json
 * **ATTiny441, 841**
 * **ATTiny1634**
 * **ATTiny828**
+
+Arduino core for ESP8266 WiFi chip
+==========================
+Data from https://github.com/esp8266/Arduino
+
+Board manager URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
