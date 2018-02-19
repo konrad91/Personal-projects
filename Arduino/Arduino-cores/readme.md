@@ -31,6 +31,6 @@ Board manager URL: http://drazzy.com/package_drazzy.com_index.json
 
 Arduino core for ESP8266 WiFi chip
 ==========================
-Data from https://github.com/esp8266/Arduino
+ESP8266 Arduino core from https://github.com/esp8266/Arduino
 
 Board manager URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
