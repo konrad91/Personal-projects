@@ -34,3 +34,9 @@ Arduino core for ESP8266 WiFi chip
 ESP8266 Arduino core from https://github.com/esp8266/Arduino
 
 Board manager URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Arduino core for ESP32 WiFi+Bluetooth chip
+==========================
+ESP32 Arduino core from https://github.com/espressif/arduino-esp32
+
+Board manager URL: https://dl.espressif.com/dl/package_esp32_index.json
